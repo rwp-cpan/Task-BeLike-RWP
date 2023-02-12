@@ -1,3 +1,5 @@
+# ABSTRACT: Perl modules bundle to install from CPAN
+
 use v5.37.9;
 
 package Task::BeLike::RWP;
