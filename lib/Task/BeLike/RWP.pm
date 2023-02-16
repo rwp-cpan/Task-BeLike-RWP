@@ -2,6 +2,12 @@
 
 use v5.37.9;
 
+=head1 SYNOPSIS
+
+cpanm Task::BeLike::RWP
+
+=cut
+
 package Task::BeLike::RWP;
 
 # TODO: FIX :list
