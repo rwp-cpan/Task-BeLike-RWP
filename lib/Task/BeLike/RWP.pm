@@ -41,7 +41,7 @@ Cross-platform clipboard management
 Supported by Perl Debugger as the C<y> command
 = L<Data::Printer> (L<GitHub|>)
 Aids in debugging by displaying Perl data structures
-= L<Log::Log4Perl> (L<GitHub|>)
+= L<Log::Log4perl> (L<GitHub|>)
 Perl logging framework
 = L<IO::Tee> (L<GitHub|>)
 Tee file handle
