@@ -50,4 +50,4 @@ Get to the domain root, by Mozilla
 = L<Net::IP::XS> (L<GitHub|>)
 IP class
 = L<XML::RSS> (L<GitHub|>)
-RSS parser
+RSS parser. Requires the C<libexpat1-dev> package to be installed.
