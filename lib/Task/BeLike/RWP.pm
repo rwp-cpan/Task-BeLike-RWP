@@ -49,5 +49,8 @@ Tee file handle
 Get to the domain root, by Mozilla
 = L<Net::IP::XS> (L<GitHub|>)
 IP class
-= L<XML::RSS> (L<GitHub|>)
+= L<XML::RSS> (L<GitHub|https://github.com/shlomif/perl-XML-RSS>)
 RSS parser. Requires the C<libexpat1-dev> package to be installed.
+= L<Yaml::XS> (L<GitHub|https://github.com/ingydotnet/yaml-libyaml-pm>>)
+= L<Rex>= (L<GitHub|https://github.com/RexOps/Rex>)
+= L<Number::Bytes::Human> (L<GitHub|https://github.com/aferreira/cpan-Number-Bytes-Human)
