@@ -51,6 +51,9 @@ Get to the domain root, by Mozilla
 IP class
 = L<XML::RSS> (L<GitHub|https://github.com/shlomif/perl-XML-RSS>)
 RSS parser. Requires the C<libexpat1-dev> package to be installed.
-= L<Yaml::XS> (L<GitHub|https://github.com/ingydotnet/yaml-libyaml-pm>>)
+= L<Yaml::XS> (L<GitHub|https://github.com/ingydotnet/yaml-libyaml-pm>)
+YAML markup parser using C<libyaml> C library
 = L<Rex> (L<GitHub|https://github.com/RexOps/Rex>)
-= L<Number::Bytes::Human> (L<GitHub|https://github.com/aferreira/cpan-Number-Bytes-Human)
+SSH-based automation framework in Perl
+= L<Number::Bytes::Human> (L<GitHub|https://github.com/aferreira/cpan-Number-Bytes-Human>)
+Human-redable bytes
